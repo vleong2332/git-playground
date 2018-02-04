@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This is a test file. Nothing should be added, or removed from it.
+=======
+This is a test.
+>>>>>>> parent of a9fbbd2... Update test.txt
