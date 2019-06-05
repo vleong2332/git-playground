@@ -1,2 +1,1 @@
-This is a real test, but not a real threat. Threat level: midnight.
-rene is cool.
+Is this is a real test, but not a real threat? Threat level: midnight.
